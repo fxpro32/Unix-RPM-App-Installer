@@ -173,8 +173,6 @@ l     |  |  |j  l|  |  |      |  | l     l     |     \    |
  \__,_l__j__|____|__j__|      l__j  \___/ \___/l_____j\___j
                                                                                        
 ** Copyright (c) By FXPRO - Freeware - Licensed Under GNU3.0 **
-** Based on the menu idea by LionSec with Katoolin on Debian Systems **
-
  _____  ___  ____       ____    ___ ___        __ __  ____ ______                 ____  ____  ___ ___ 
 |     |/   \|    \     |    \  /  _|   \      |  T  T/    |      T               |    \|    \|   T   T
 |   __Y     |  D  )    |  D  )/  [_|    \     |  l  Y  o  |      |     _____     |  D  |  o  | _   _ |
